@@ -2,7 +2,7 @@
 # Sample Next.js with Cosmos and Typescript 
 
 ## Installation
-
+git clone and run 
 ```bash
 npm install
 ```
