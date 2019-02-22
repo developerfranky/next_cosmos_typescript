@@ -1,0 +1,27 @@
+{
+  "name": "cosmos_next_typescript",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/plugin-proposal-class-properties": "^7.3.3",
+    "@babel/plugin-proposal-decorators": "^7.3.0",
+    "@zeit/next-typescript": "^1.1.1",
+    "babel-loader": "^8.0.5",
+    "html-webpack-plugin": "^3.2.0",
+    "next": "^8.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "next": "next",
+    "cosmos": "cosmos",
+    "cosmos:export": "cosmos-export"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.4",
+    "react-cosmos": "^4.7.0",
+    "ts-loader": "^5.3.3"
+  }
+}
